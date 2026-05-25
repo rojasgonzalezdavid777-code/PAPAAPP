@@ -7,7 +7,6 @@ Cadena de Distribución: Union de procesos, personas, empresas
 y medios que intervienen para que un producto llegue 
 desde el fabricante al punto de venta final. ()
 
-Cadena de Distribución de  papa: Unión de procesos, personas, e
+Cadena de Distribución de  papa: Unión de procesos, personas, empresas
 y medios que intervienen para que la papa llegue
  desde el cultivo hasta el punto de venta final.
-  
